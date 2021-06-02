@@ -2,10 +2,12 @@
 import Parrafo2 from "./components/Parrafo2"
 import Texto from "./components/Texto"
 import Imagen from "./components/Imagen"
-import Pie from "./components/Pie" */
+import Pie from "./components/Pie" 
 import Eventos from "./components/Eventos"
 import Suma from "./components/Suma"
-import Variable from "./components/Variable"
+import Variable from "./components/Variable"*/
+import Operaciones from "./components/Operaciones";
+
 
 
 function App() {
@@ -19,7 +21,7 @@ function App() {
     <Variable />
     <Eventos />
     */}
-    <Suma />
+    <Operaciones />
 
     </div>
   );
