@@ -5,8 +5,13 @@ import Imagen from "./components/Imagen"
 import Pie from "./components/Pie" 
 import Eventos from "./components/Eventos"
 import Suma from "./components/Suma"
-import Variable from "./components/Variable"*/
+import Variable from "./components/Variable"
 import Operaciones from "./components/Operaciones";
+import Fetchpokemon from "./components/Fetchpokemon";*/
+
+import Fetchpractica from "./components/Fetchpractica";
+import Fetchpokemon from "./components/Fetchpokemon";
+
 
 
 
@@ -20,8 +25,12 @@ function App() {
      <Pie /> 
     <Variable />
     <Eventos />
-    */}
     <Operaciones />
+    <Fetchpokemon />
+    
+    */}
+    <Fetchpractica/>
+    
 
     </div>
   );
