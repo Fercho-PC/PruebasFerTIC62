@@ -1,3 +1,5 @@
+/*     Inactivos     */
+
 /*import Parrafo from "./components/Parrafo"
 import Parrafo2 from "./components/Parrafo2"
 import Texto from "./components/Texto"
@@ -9,11 +11,19 @@ import Variable from "./components/Variable"
 import Operaciones from "./components/Operaciones";
 import Fetchpokemon from "./components/Fetchpokemon";
 import Fetchpractica from "./components/Fetchpractica";
-import Fetchpokemon from "./components/Fetchpokemon";
-*/
+import Fetchpokemon from "./components/Fetchpokemon";*/
+
+
+/*     Inactivos     */
+/*     Activos     */
 
 
 import Card from "./components/Card";
+
+
+/*     Activos     */
+
+
 
 function App() {
   return (
