@@ -7,16 +7,13 @@ import Eventos from "./components/Eventos"
 import Suma from "./components/Suma"
 import Variable from "./components/Variable"
 import Operaciones from "./components/Operaciones";
-import Fetchpokemon from "./components/Fetchpokemon";*/
-
+import Fetchpokemon from "./components/Fetchpokemon";
 import Fetchpractica from "./components/Fetchpractica";
 import Fetchpokemon from "./components/Fetchpokemon";
+*/
 
-import card from "./components/Card";
+
 import Card from "./components/Card";
-
-
-
 
 function App() {
   return (
