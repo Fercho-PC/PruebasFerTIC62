@@ -12,26 +12,16 @@ import Fetchpokemon from "./components/Fetchpokemon";*/
 import Fetchpractica from "./components/Fetchpractica";
 import Fetchpokemon from "./components/Fetchpokemon";
 
+import card from "./components/Card";
+import Card from "./components/Card";
+
 
 
 
 function App() {
   return (
-    <div >
-     {/* <Parrafo2 />
-      <Parrafo />
-      <Imagen />
-      <Texto />
-     <Pie /> 
-    <Variable />
-    <Eventos />
-    <Operaciones />
-    <Fetchpokemon />
-    
-    */}
-    <Fetchpractica/>
-    
-
+    <div >     
+      <Card imagen="https://www.ecured.cu/images/thumb/5/55/Espada.jpg/260px-Espada.jpg" titulo="espada" desc="la espada de selda"/>  
     </div>
   );
 }
